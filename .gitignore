@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+# 実際の運用データ（サンプルは posts.sample.csv / affiliate_posts.sample.json 参照）
+posts.csv
+affiliate_posts.json
+affiliate_posted.json
+affiliate_state.json
+affiliate_images/
+
+.vscode/
